@@ -1,2 +1,2 @@
-# .github
+# Randomocity-lol
 Randomocity organizational hub
